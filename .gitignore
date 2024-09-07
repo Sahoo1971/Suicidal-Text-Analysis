@@ -29,3 +29,4 @@ backend/notebooks
 backend/backup_key.txt
 .env
 backend/models/features.csv
+.env
